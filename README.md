@@ -3,11 +3,12 @@
 <br />
 <br />
 
-<h3> - 🌱 I’m currently learning **bun** </h3>
+<h3> - 🌱 I’m currently learning <strong>bun</strong> </h3>
 
-<h3> - 💬 Ask me about **react and sveltekit** </h3>
+<h3> - 💬 Ask me about <strong>react and sveltekit</strong>  </h3>
 
-<h3> - 📫 How to reach me **rajatsharma3200@gmail.com** </h3>
+<h3> - 📫 How to reach me <a href="mailto:rajatsharma3200@gmail.com"><strong>rajatsharma3200@gmail.com</strong></a></h3>
+
   <br />
 <br />
 
