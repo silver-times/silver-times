@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">A passionate frontend developer from Prague, Czech Republic.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silver-times" alt="silver-times" /></a> </p>
-
 - 🌱 I’m currently learning **bun**
 
 - 💬 Ask me about **react and sveltekit**
