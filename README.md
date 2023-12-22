@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h2 align="center">A passionate frontend developer from Prague, Czech Republic.</h2>
 <br />
-<br />
 
 <h3> - 🌱 I’m currently learning <strong>bun</strong> </h3>
 
@@ -9,7 +8,6 @@
 
 <h3> - 📫 How to reach me <a href="mailto:rajatsharma3200@gmail.com"><strong>rajatsharma3200@gmail.com</strong></a></h3>
 
-  <br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -164,7 +162,7 @@
     </td>    
   </tr>
 </table>
-  <br />
+
 <br />
 
 <div style="display: inline-block; width: 45%;">
