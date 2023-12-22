@@ -171,6 +171,11 @@
   <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-times&show_icons=true&locale=en&layout=compact" alt="silver-times" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silver-times&" alt="silver-times" /></p>
+<div style="display: inline-block; width: 45%;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-times&show_icons=true&locale=en&layout=compact" alt="silver-times" /></p>
+</div>
+
+<div style="display: inline-block; width: 45%;">
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=silver-times&" alt="silver-times" /></p>
+</div>
 
