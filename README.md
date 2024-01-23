@@ -2,7 +2,7 @@
 <h2 align="center">A passionate frontend developer from Prague, Czech Republic.</h2>
 <br />
 
-<h3> - 🌱 I’m currently learning bun and AWS Lambda (serverless). </h3>
+<h3> - 🌱 I’m currently working on bun and AWS. </h3>
 
 <h3> - 💬 Ask me about react and sveltekit.  </h3>
 
